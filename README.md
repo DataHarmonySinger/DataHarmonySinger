@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Namrata Dutta</h1>
+![logo](https://github.com/DataHarmonySinger/DataHarmonySinger/blob/main/github-header-image%20(2).png)
+<h1 align="center"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dataharmonysinger&label=Profile%20views&color=0e75b6&style=flat" alt="dataharmonysinger" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">

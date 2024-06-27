@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **namratadutta3@gmail.com**
 
-- ⚡ Fun fact **I love turning data into meaningful insights that drive decision-making and strategy. When I'm not analyzing data, you might find me exploring new hiking trails or experimenting with new recipes in the kitchen.**
+- ⚡ Fun fact **I love turning data into meaningful insights that drive decision-making and strategy. When I'm not analyzing data, you might find me exploring new hiking trails or immersed in music or singing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DataHarmonySinger](https://github.com/DataHarmonySinger)
 
-- 📝 I regularly write articles on [Data Science](Data Science)
-
 - 💬 Ask me about **SQL, Python, SPSS, Data Analysis, PowerBI, Tableau**
 
 - 📫 How to reach me **namratadutta3@gmail.com**

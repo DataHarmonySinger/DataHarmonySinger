@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Advanced Data Analysis Techniques, Machine Learning with Python,SQL, PowerBI Advanced Features.**
+- 🌱 I’m currently learning **Advanced Data Analysis Techniques, Machine Learning with Python,R, SQL, PowerBI Advanced Features.**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Projects**
 
